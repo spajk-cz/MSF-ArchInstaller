@@ -1,6 +1,5 @@
 echo 'Initializing installation of Metasploit Framework from Github.' 2> ~/LOGFILE.txt
-echo "Installation started from $USER at $HOSTNAME at " 2>> ~/LOGFILE.txt
-date 2>> ~/LOGFILE.txt
+echo "Installation started from $USER at $HOSTNAME at " 2>> ~/LOGFILE.txtdate 2>> ~/LOGFILE.txt
 
 
 echo '***********************************************************'
