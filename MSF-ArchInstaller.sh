@@ -199,3 +199,4 @@ echo ' #  #    #        #       # '
 echo ' #   #   #  #     # #     # '
 echo ' #    # ###  #####   #####  '
 echo '***********************************************************'
+#naklonováno na aktuální GH účet. GitKraken rulez!
